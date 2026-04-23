@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Local dependencies
+node_modules/
+venv/
+env/
+.venv/
+
+# Log files
+*.log
